@@ -10,8 +10,9 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/jonathanmesquita/portfolio-alura-01/blob/main/imagens%20diversas/Portfolio%20-%20Curso%201%403x.png#vitrinedev)
 
 ## Detalhes do projeto
+
 
 Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
