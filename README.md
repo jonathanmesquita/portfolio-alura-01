@@ -6,7 +6,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | -------------  | --- |
 | :sparkles: Nome        | **Portfolio Alura - Joana Santos **
 | :label: Tecnologias | HTML,CSS,Flex-box
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | [Hospedado no Vercel Free](https://portfolio-alura-01-ebon.vercel.app/index.html)
 | :fire: Desafio     | [Linkdin Alura](https://www.linkedin.com/school/aluracursos/)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
